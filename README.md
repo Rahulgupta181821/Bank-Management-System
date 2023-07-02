@@ -29,7 +29,6 @@ The Bank Management System is a software application that provides banking funct
 - Core Java: The core business logic of the application is implemented using Java.
 - Java Swing: The graphical user interface (GUI) is developed using Java Swing for a user-friendly experience.
 - MySQL: The MySQL database is used as the backend to store and retrieve customer information.
-- 
 ## Installation
 
 To install and set up the Bank Management System, follow these steps:
